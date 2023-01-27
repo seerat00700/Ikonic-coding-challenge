@@ -1,7 +1,7 @@
 Hi Ikonic,
 
 
-#. The backend code is in the repository named as ikonic-coding-backend and the frontend code which is built in vuejs will be added to the email becuase the file size is greater then the 25 MB which github doesn't allow. 
+#. The backend code is in the repository named as ikonic-coding-backend and the frontend code which is built in vuejs will be added to the email becuase the file size is greater then  25 MB which github doesn't allow. 
 
 #. I have used the repository design pattern in the backend for laravel which i was asked in the interview and i didn't know. 
 
